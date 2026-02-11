@@ -290,7 +290,7 @@ export default function Layout({ children, currentPage, onNavigate, onOpenAI }: 
             <div className="flex items-center space-x-4 text-xs">
               <span className="text-slate-500">Join the community</span>
               <a
-                href="https://github.com"
+                href="https://github.com/jaiashwinisatish/VoucherX"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-slate-600 hover:text-teal-600 transition-colors"
